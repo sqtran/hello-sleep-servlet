@@ -1,4 +1,4 @@
-# hello-world-servlet
+# hello-sleep-servlet
 
 Super simple servlet example to test how the container handles a `SIGTERM`.
 
